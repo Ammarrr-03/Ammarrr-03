@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Ammar! 👋
 
-<!--
-**Ammarrr-03/Ammarrr-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **About Me**:
+- 🎓 Cybersecurity student passionate about AI and web development.
+- 🔭 Currently working on: **Glaucoma Detection Using AI**
+- 🌱 Learning: React, TensorFlow, and Advanced Machine Learning.
 
-Here are some ideas to get you started:
+🛠️ **Technologies & Tools**:
+- Programming: Python, JavaScript
+- Frameworks: React, Flask
+- Tools: Git, VS Code, Streamlit, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏆 **Featured Projects**:
+- [Brain MRI Classification](https://github.com/Ammarrr-03/Brain-MRI)
+- [Alzheimer’s Detection](https://github.com/Ammarrr-03/Alzheimers-Detection)
+
+🌐 **Connect With Me**:
+[LinkedIn](https://linkedin.com/in/your-profile) | [Portfolio](https://your-portfolio.com)
