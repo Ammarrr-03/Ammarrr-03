@@ -11,7 +11,7 @@
 - Tools: Git, VS Code, Streamlit, Docker
 
 🏆 **Featured Projects**:
-- [Brain MRI Classification](https://github.com/Ammarrr-03/Brain-MRI)
+- [Glaucoma Detection](https://github.com/Ammarrr-03/Glaucoma-Detection-Using-AI-ML.git)
 - [Expense Tracker ](https://github.com/Ammarrr-03/Expense-Tracker-with-Backend.git)
 
 🌐 **Connect With Me**:
