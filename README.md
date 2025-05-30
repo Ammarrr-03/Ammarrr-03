@@ -14,7 +14,5 @@
 - [Glaucoma Detection](https://github.com/Ammarrr-03/Glaucoma-Detection-Using-AI-ML.git)
 - [Expense Tracker ](https://github.com/Ammarrr-03/Expense-Tracker-with-Backend.git)
 
-![GitHub followers](https://img.shields.io/github/followers/Ammarrr-03?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Ammarrr-03?style=social)
-![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)
+
 
